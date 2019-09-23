@@ -84,6 +84,7 @@
                     <navigationItem key="navigationItem" id="h3j-3F-8hE"/>
                     <connections>
                         <outlet property="imageView" destination="ZfK-R4-am7" id="hlT-Wp-SDw"/>
+                        <outlet property="saveButton" destination="Sa7-1U-GYv" id="9Pa-8f-5UM"/>
                         <outlet property="text1" destination="Xt4-z2-Qig" id="tOC-EE-qMK"/>
                         <outlet property="text2" destination="LGq-Yd-7fO" id="8Gh-cu-yZR"/>
                         <outlet property="text3" destination="4bh-nc-ALS" id="DvV-Nw-Opn"/>
